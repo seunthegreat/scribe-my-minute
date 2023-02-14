@@ -1,5 +1,5 @@
 import React from 'react';
-import { Form, Header, Info } from './components';
+import { Footer, Form, Header, Info } from './components';
 import { layout } from './style';
 
 
@@ -13,6 +13,7 @@ const App = () => {
         <Info />
         <Form />
       </div>
+      <Footer />
     </div>
   )
 }
