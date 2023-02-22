@@ -1,5 +1,5 @@
 export const layout = {
-  sectionItems: "grid grid-cols-2 w-full",
+  sectionItems: "grid md:grid-cols-2 sm:grid-cols-1 w-full",
 }
 
 export const text = {

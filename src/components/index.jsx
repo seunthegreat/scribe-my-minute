@@ -5,3 +5,4 @@ export { default as Footer } from "./Footer";
 export { default as Author } from "./Author";
 export { default as Info } from "./Info";
 export { default as Input } from "./Input";
+export { default as Button } from "./Button";
